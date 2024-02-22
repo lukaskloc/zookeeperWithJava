@@ -1,0 +1,9 @@
+content:
+  - Theory
+  - Define the types
+  - Casting double to other types
+  - Rounding down a halved float value to an integer
+  - Casting long to byte with intermediate int
+  - Sequential conversions
+  - Widening casting
+  - Where explicit casting is required
